@@ -37,9 +37,10 @@ Herzlich willkommen.
         print("ACHHHHHHHTUNG, Jedi, SCHNELL IN DECKUNG")
         print("Zu langsam, junger Padawan, leider bist du soeben auf dem Todesstern gestorben.")
       	  du_bist_weise_junger_Padawan=False
-   	 else:
-	    print("Gut gemacht"+name)
 ### Sagt, dass du es gut gemacht hast, wenn du die richtige Raumkapsel gewählt hast.
+	else:
+	    print("Gut gemacht"+name)
+
 ### Wenn du die falsche Raumkapsel gewählt hast, dann springt es zum letzten Abschnitt des Codes.
   	BesiegteSiths = BesiegteSiths+ 1
 
