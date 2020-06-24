@@ -40,8 +40,8 @@ while du_bist_weise_junger_Padawan:
     else:
 	    print("Gut gemacht"+name)
 ### Sagt, dass du es gut gemacht hast, wenn du die richtige Raumkapsel gewählt hast.
-   ### Wenn du die falsche Raumkapsel gewählt hast, dann springt es zum letzten Abschnitt des Codes.
-  ### BesiegteSiths = BesiegteSiths+ 1
+### Wenn du die falsche Raumkapsel gewählt hast, dann springt es zum letzten Abschnitt des Codes.
+  	BesiegteSiths = BesiegteSiths+ 1
 
 print(" ")
 print(name+", du hast leider die Jedi Akademie nicht bestanden.Schande über dich. Nur")
