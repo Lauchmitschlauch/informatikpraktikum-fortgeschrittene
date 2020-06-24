@@ -17,8 +17,8 @@ Herzlich willkommen.
 	print(begruessung)
 
 
-du_bist_weise_junger_Padawan=True
-BesiegteSiths = 0
+	du_bist_weise_junger_Padawan=True
+	BesiegteSiths = 0
 
 ### Wenn du weise bist, dann bist du weise, bis du die falsche Raumkapsel nimmst.
 
