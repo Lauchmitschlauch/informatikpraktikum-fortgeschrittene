@@ -9,6 +9,7 @@ Herzlich willkommen.
 #Dies ist ein kleines "Geisterspiel" viel Spass
 from random import randint
 from time import sleep
+### Time wurde importiert, aufgrund einer bestimmten Verzögerung.
 name=input("Was ist dein Name junger Padawan?")
 begruessung="Guten Morgen,junger Padawan haben sie gut geschlafen"
 begruessung = begruessung + ' ' + name + '?'
