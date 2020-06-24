@@ -1,9 +1,9 @@
 # informatikpraktikum-fortgeschrittene
-Schüler der Schule Rothrist
+# Schüler der Schule Rothrist
 
 
 
-Herzlich willkommen zu diesem kleinen Geisterspiel-Projekt
+# Herzlich willkommen zu diesem kleinen Geisterspiel-Projekt
 
 
 	#Dies ist ein kleines "Geisterspiel" viel Spass
